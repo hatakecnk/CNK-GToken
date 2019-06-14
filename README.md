@@ -1,5 +1,5 @@
 # CNK-GToken
-Token Generatir For Facebook
+Token Generator For Facebook
 
 ![alt text](https://img.shields.io/badge/Coded-xNot_Found-blue.svg)
 ![alt text](https://img.shields.io/badge/Size-39.00KB-yellow.svg)
